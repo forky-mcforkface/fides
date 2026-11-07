@@ -74,7 +74,7 @@ dependencies = [
     "onepassword-sdk==0.3.0",
     "openpyxl==3.0.9",
     "packaging==23.0",
-    "paramiko==3.4.1",
+    "paramiko==5.0.0",
     "passlib[bcrypt]==1.7.4",
     "pg8000==1.31.5",
     "platformdirs~=4.5.0",
